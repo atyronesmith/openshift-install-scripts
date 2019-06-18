@@ -1,0 +1,6 @@
+"machineAPIOperator": "quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:34f95115f8b56332324fadf3cabd3e34a237fe50b0a262f0afc29a9ccef8cbe1",
+"clusterAPIControllerAWS": "quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:630e8118038ee97b8b3bbfed7d9b63e06c1346c606e11908064ea3f57bd9ff8e",
+"clusterAPIControllerOpenStack": "quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:9707574173a1b05a2294891ca69c4ffaf20ed29cf75761cba50f1715e9a8846f",
+"clusterAPIControllerLibvirt": "quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:2298681b40e49478651dfe2e50fa82758a06e7b7661cfcda68c739ab34e5ef96",
+"clusterAPIControllerBaremetal": "quay.io/oglok/cluster-api-provider-baremetal:latest",
+"clusterAPIControllerKubemark": "docker.io/gofed/kubemark-machine-controllers:v1.0"
